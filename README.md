@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, al
 ## 📫 How to Reach Me
 
 - **Email**: aayushsoodhp@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/aayush-sood-493257267/\
+- **LinkedIn**: https://www.linkedin.com/in/aayush-sood-493257267/
 
 
 ## 💬 Let's Connect
