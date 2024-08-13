@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Aayush Sood]
+# Hi there! 👋 I'm Aayush Sood
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, always eager to learn and explore new technologies. Here's a bit about me and what I do:
 
