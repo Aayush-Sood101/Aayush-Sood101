@@ -32,5 +32,5 @@ I'm always open to collaboration and discussions. Feel free to reach out to me v
 
 ---
 
-⭐️ **From [Your Name](https://github.com/Aayush-Sood101)**
+⭐️ **From Aayush_Sood(https://github.com/Aayush-Sood101)**
 
