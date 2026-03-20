@@ -127,7 +127,7 @@ const aayush: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=Credloom&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Aayush-Sood101/LegalGPT-Frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LegalGPT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LegalGPT-Frontend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 </div>
 
@@ -141,7 +141,7 @@ const aayush: Developer = {
 | 📰 **[PressLog](https://github.com/Aayush-Sood101/PressLog)** | A modern press release & content logging platform |
 | ✍️ **[BeforeYouSign](https://github.com/Aayush-Sood101/BeforeYouSign)** | AI-powered contract & document review tool — understand what you're signing |
 | 🔐 **[Credloom](https://github.com/Aayush-Sood101/Credloom)** | Credential and reputation management platform |
-| ⚖️ **[LegalGPT](https://github.com/Aayush-Sood101/LegalGPT)** | AI-powered legal assistant for accessible legal guidance |
+| ⚖️ **[LegalGPT](https://github.com/Aayush-Sood101/LegalGPT-Frontend)** | AI-powered legal assistant for accessible legal guidance |
 
 > 💡 *Update the descriptions above to match your actual project summaries!*
 
