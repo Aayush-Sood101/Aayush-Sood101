@@ -126,7 +126,7 @@ const aayush: Developer = {
 <a href="https://github.com/Aayush-Sood101/Credloom">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=Credloom&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Aayush-Sood101/LegalGPT">
+<a href="https://github.com/Aayush-Sood101/LegalGPT-Frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LegalGPT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 </div>
