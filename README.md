@@ -143,7 +143,6 @@ const aayush: Developer = {
 | 🔐 **[Credloom](https://github.com/Aayush-Sood101/Credloom)** | Credential and reputation management platform |
 | ⚖️ **[LegalGPT](https://github.com/Aayush-Sood101/LegalGPT-Frontend)** | AI-powered legal assistant for accessible legal guidance |
 
-> 💡 *Update the descriptions above to match your actual project summaries!*
 
 ---
 
