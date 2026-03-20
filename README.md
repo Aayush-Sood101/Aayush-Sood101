@@ -46,7 +46,7 @@ const aayush: Developer = {
 - 🌱 &nbsp; Deep-diving into **MERN Stack & System Design**
 - 🏆 &nbsp; CodeChef rated **1550** | **500+ DSA** problems solved
 - 📚 &nbsp; **B.Tech CSE** @ VIT Vellore — CGPA: **9.79** ⭐
-- 🚀 &nbsp; Built **INVESIM**, **LastMile**, **Annoted-Notes** & more
+- 🚀 &nbsp; Building **LaymanDB, PressLog, LegalGPT** & more
 - 🏅 &nbsp; **NTSE Stage 1 Scholar** | Coding Odyssey **Rank 1**
 - 👨‍💻 &nbsp; **37 public repositories** on GitHub
 - 🤝 &nbsp; Open to **internships, hackathons & collabs**
@@ -114,20 +114,20 @@ const aayush: Developer = {
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Aayush-Sood101/INVESIM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=INVESIM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Aayush-Sood101/LaymanDB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LaymanDB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Aayush-Sood101/LastMile">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LastMile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Aayush-Sood101/PressLog">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=PressLog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Aayush-Sood101/LastMile-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LastMile-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Aayush-Sood101/BeforeYouSign">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=BeforeYouSign&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Aayush-Sood101/Annoted-Notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=Annoted-Notes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Aayush-Sood101/Credloom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=Credloom&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Aayush-Sood101/DSA-CODING">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=DSA-CODING&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Aayush-Sood101/LegalGPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-Sood101&repo=LegalGPT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 </div>
 
@@ -135,13 +135,15 @@ const aayush: Developer = {
 
 ### 📦 Project Highlights
 
-| Project | Tech | Description |
-|:--------|:-----|:------------|
-| 🏦 **[INVESIM](https://github.com/Aayush-Sood101/INVESIM)** | `TypeScript` | Investment simulation platform |
-| 🚚 **[LastMile](https://github.com/Aayush-Sood101/LastMile)** | `JavaScript` `React` | Last-mile delivery frontend application |
-| ⚙️ **[LastMile-backend](https://github.com/Aayush-Sood101/LastMile-backend)** | `JavaScript` `Node.js` | REST API backend for the LastMile delivery system |
-| 📝 **[Annoted-Notes](https://github.com/Aayush-Sood101/Annoted-Notes)** | `JavaScript` | Smart annotated note-taking app — ⭐ 2 |
-| 💻 **[DSA-CODING](https://github.com/Aayush-Sood101/DSA-CODING)** | `C++` | 500+ DSA problems — my competitive programming vault |
+| Project | Description |
+|:--------|:------------|
+| 🗄️ **[LaymanDB](https://github.com/Aayush-Sood101/LaymanDB)** | Database interface designed for non-technical users — making DB queries human-friendly |
+| 📰 **[PressLog](https://github.com/Aayush-Sood101/PressLog)** | A modern press release & content logging platform |
+| ✍️ **[BeforeYouSign](https://github.com/Aayush-Sood101/BeforeYouSign)** | AI-powered contract & document review tool — understand what you're signing |
+| 🔐 **[Credloom](https://github.com/Aayush-Sood101/Credloom)** | Credential and reputation management platform |
+| ⚖️ **[LegalGPT](https://github.com/Aayush-Sood101/LegalGPT)** | AI-powered legal assistant for accessible legal guidance |
+
+> 💡 *Update the descriptions above to match your actual project summaries!*
 
 ---
 
